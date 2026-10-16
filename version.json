@@ -1,8 +1,8 @@
-{
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v1.1/StreamX-1.1.apk",
-  "notes": "First release with updates.",
-  "sha256": "FILL_LATER",
-  "mandatory": false
-}
+   {
+     "versionCode": 3,
+     "versionName": "1.2",
+     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v1.2/StreamX-1.2.apk",
+     "notes": "Test update",
+     "sha256": "c3fb3f6077b55d412013d913da2f758704fe6f44ed0a124b12be581613d3524e",
+     "mandatory": false
+   }
