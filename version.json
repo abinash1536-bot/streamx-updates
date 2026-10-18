@@ -1,8 +1,8 @@
 {
-     "versionCode": 8,
-     "versionName": "1.7",
-     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v1.7/StreamX-1.7.apk",
+     "versionCode": 9,
+     "versionName": "1.8",
+     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v1.8/StreamX-1.8.apk",
      "notes": "update available",
-     "sha256": "45fa502bdbe335e33484ecdae60b75b75844f193e1eb1ebc7b15117f004966d7",
+     "sha256": "47b318c36a43f83be13279fcdd6c3fcd31dca376151d12303fc80064229186df",
      "mandatory": false
    }
