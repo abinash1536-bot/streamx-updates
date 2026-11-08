@@ -1,8 +1,8 @@
 {
-     "versionCode": 18,
-     "versionName": "2.25",
-     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v2.25/StreamX-2.25.apk",
+     "versionCode": 19,
+     "versionName": "2.26",
+     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v2.26/StreamX-2.26.apk",
      "notes": "update with new widget and loading issue rectified",
-     "sha256": "aaf8c7daf7a84413f7dc18ce5f607838eca274645495f076873e1bdd9cc51435",
+     "sha256": "31d667c0d45407befe435265e300fcaa995dde0109e6b4058d9cf8cba57abff3",
      "mandatory": false
    }
