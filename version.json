@@ -1,8 +1,8 @@
 {
      "versionCode": 20,
-     "versionName": "3.0",
-     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v3.0/StreamX-3.0.apk",
+     "versionName": "3.1",
+     "apkUrl": "https://github.com/abinash1536-bot/streamx-updates/releases/download/v3.1/StreamX-3.1.apk",
      "notes": "update with new picture in picture and loading issue rectified🚀",
-     "sha256": "c3b2e0cb544ad9cc245a2b05c9a446f983686d317a66ca2e67dd0dcea8fa1dd4",
+     "sha256": "09d9ae76a5e53764f7973fdd83943ac996f639d63a1d4fb541b1282d7b7ced21",
      "mandatory": false
    }
